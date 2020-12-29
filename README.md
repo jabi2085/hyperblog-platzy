@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# hyperblog-platzy
-=======
 # hyperblog-platzy
 
 
@@ -9,4 +6,3 @@ prueba 1
 2
 3
 4
->>>>>>> 587f63c (Ejemplos en win lin)
